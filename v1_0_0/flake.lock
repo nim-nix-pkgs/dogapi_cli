@@ -11,11 +11,11 @@
       },
       "locked": {
         "dir": "nimpkgs/d/dogapi",
-        "lastModified": 1647065826,
-        "narHash": "sha256-r66No5mwEjm2Re2M0CQATyr5WM0Bb4+zjhJE7WoXqWE=",
+        "lastModified": 1647137245,
+        "narHash": "sha256-xFHYIiGkoaG4FVUV3kObxiIF/Ho3laMWYz7TwUSxXAE=",
         "owner": "riinr",
         "repo": "flake-nimble",
-        "rev": "8c681972a7fc4cdac7e98587f60b0b55ea9db44c",
+        "rev": "f9f03889646165eb35517b2d60edfc74e5b338bc",
         "type": "github"
       },
       "original": {

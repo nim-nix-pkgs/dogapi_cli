@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1658018796,
-        "narHash": "sha256-QYHfs/zowJG3NHslurHtSMHnnEQIOJgpzS0ek14oz9c=",
+        "lastModified": 1658032701,
+        "narHash": "sha256-F892X8LNLVTJqvKcix5jp8hAv/RI/VykSOPgJ1RRF/I=",
         "owner": "nim-nix-pkgs",
         "repo": "dogapi_cli",
-        "rev": "9c6548a939b3e2e05c226e8f73edbeabb5c87753",
+        "rev": "65f63a18a575350759fce1519f37ddfca85f45b5",
         "type": "github"
       },
       "original": {
@@ -99,11 +99,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1658018796,
-        "narHash": "sha256-QYHfs/zowJG3NHslurHtSMHnnEQIOJgpzS0ek14oz9c=",
+        "lastModified": 1658032701,
+        "narHash": "sha256-F892X8LNLVTJqvKcix5jp8hAv/RI/VykSOPgJ1RRF/I=",
         "owner": "nim-nix-pkgs",
         "repo": "dogapi_cli",
-        "rev": "9c6548a939b3e2e05c226e8f73edbeabb5c87753",
+        "rev": "65f63a18a575350759fce1519f37ddfca85f45b5",
         "type": "github"
       },
       "original": {
